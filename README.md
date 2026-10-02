@@ -1,4 +1,4 @@
-# school
+# studentProfile
 
 A new Flutter project.
 
